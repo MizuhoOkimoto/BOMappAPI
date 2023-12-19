@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "QBuildAPI": {
+    "BOMappAPI": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
